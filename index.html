@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Document</title>
+</head>
+<body page-body>
+    <video autoplay muted class="backgroundBlurredVideo" video1>
+        <source src="media/ror2.mp4" type="video/mp4">
+    </video>
+    <video autoplay muted loop class="backgroundVideo" video2>
+        <source src="media/ror2.mp4" type="video/mp4">
+    </video>
+    <div class="backgroundCover"></div>
+    
+    <div class="bulletin">
+        <h1>CZhared Gaming Library</h1>
+        <p>Feel free to play, BUT<br><u><b>if you don't have to be online, play offline.</b></u></p>
+        <p>This library has been donated by: <br><b>Michael Dugbartey, Donnell Wright, and Connor Mollon</b></p> 
+    </div>
+
+    <input type="search" placeholder="Search Game Name..." class="searchBar" game-search>
+    
+    <template game-info-template>
+        <div class="gameCard">
+            <div class="gameImage"><img src="media/loading.gif" alt="loadingImage" game-image></div>
+            <div class="gameHyperlink"><a href="" game-link>Hyperlink Text</a></div>
+            <div class="gamePlatform" game-platform>Platform</div>
+        </div>
+    </template>
+</body>
+</html>
