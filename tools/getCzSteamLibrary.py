@@ -75,7 +75,7 @@ with sync_playwright() as playwright:
                     gameData["title"] = game.locator("img").get_attribute("alt")
                     strippedTitle = re.sub(r"[^a-zA-Z0-9]", "", gameData["title"]).lower()
                     # If the entry exists in the previous data then skip it
-                    if gameData["title"] in games.keys(): 
+                    if f"{gameData["title"]} | [Steam]" in games.keys(): 
                         print("\tDupe Skipping...")
                         continue
                     gameData["image"] = game.locator("img").get_attribute("src")
@@ -95,7 +95,7 @@ with sync_playwright() as playwright:
                     searchPage.close()
 
                     gameData["platform"] = "Steam"
-                    games[gameData["title"]] = gameData
+                    games[f"{gameData["title"]} | [Steam]"] = gameData
                     print(f"\t\t{gameData["title"]} is SHARED")
         if rowLoopAchieved or firstGame == None:
             print("New Game Barrier...")

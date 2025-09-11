@@ -52,7 +52,7 @@ for game in data:
     gameData["title"] = game["app_title"]
     print(gameData["title"])
 
-    if games[gameData["title"]]:
+    if games[f"{gameData["title"]} | [Epic]"]:
         print("Data Already Stored. Skipping\n")
         continue
 
@@ -87,7 +87,7 @@ for game in data:
         gameData["platform"] = "Epic"
 
     # Append formed data to the parent dictionary
-    games[gameData["title"]] = gameData
+    games[f"{gameData["title"]} | [Epic]"] = gameData
     print(f"Game Recorded\n")
 
 # Write all data to new JSON file
