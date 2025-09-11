@@ -5,7 +5,12 @@ async function loadGames(pageName) {
         const response = await fetch("data/fullLibrary.json");
         const json = await response.json();
         //Load All Game's Data from Premade JSON
-        const keys = Object.keys(json).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()))
+        var keys = Object.keys(json).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()))
+        keys = keys.sort((a, b) => {
+            const newA = json[a]["new"] ? 1 : 0;
+            const newB = json[b]["new"] ? 1 : 0;
+            return newB - newA; 
+        });
         
         const gameCardTemplate = document.querySelector("[game-info-template]");
         const pageBody = document.querySelector("[page-body]");
@@ -15,16 +20,19 @@ async function loadGames(pageName) {
             const gameImage = gameCard.querySelector("[game-image]")
             const gameLink = gameCard.querySelector("[game-link]")
             const gamePlatform = gameCard.querySelector("[game-platform]")
+            const gameStamp = gameCard.querySelector("[game-stamp]")
 
-            gameLink.textContent = key;
+            gameLink.textContent = json[key]["title"];
             gameLink.href = json[key]["link"];
             gamePlatform.textContent = json[key]["platform"];
+            if ("new" in json[key]) {
+                gameStamp.classList.toggle("hidden");
+            }
 
             const loadingImage = new Image();
             gameImage.alt = key.replaceAll('"', "'");
             loadingImage.src = json[key]["image"];
             loadingImage.alt = key.replaceAll('"', "'");
-            gameLink
 
             loadingImage.onload = () => {
                 waitingImage = document.querySelector(`img[alt="${loadingImage.alt.replaceAll('"', "'")}"]`);

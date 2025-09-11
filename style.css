@@ -102,7 +102,7 @@ body {
     text-align: center;
     vertical-align: middle;
     font-size: clamp(0.7rem, 1.75vw, 2rem);
-    overflow: hidden;
+    overflow: visible;
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(5px);
@@ -129,6 +129,8 @@ body {
     align-items: center;
     justify-content: center;
     backdrop-filter: invert();
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .gameHyperlink :hover {
@@ -140,6 +142,18 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
+}
+
+.newStamp {
+    background-image: url("media/newStamp.png");
+    background-size: contain;
+    flex: 0;
+    position: absolute;
+    right: -50px;
+    top: clamp(-50px, -5vw, -75px);
+    width: 100px;
+    height: 100px;
+    overflow: visible;
 }
 
 .hidden {
