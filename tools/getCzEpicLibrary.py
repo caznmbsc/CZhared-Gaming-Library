@@ -52,7 +52,7 @@ for game in data:
     gameData["title"] = game["app_title"]
     print(gameData["title"])
 
-    if games[f"{gameData["title"]} | [Epic]"]:
+    if f"{gameData["title"]} | [Epic]" in games.keys():
         print("Data Already Stored. Skipping\n")
         continue
 

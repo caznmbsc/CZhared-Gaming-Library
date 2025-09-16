@@ -3730,5 +3730,26 @@
     "image": "https://cdn1.epicgames.com/spt-assets/dcd83ace86fb4501bde1316ca03e29ad/zenless-zone-zero-mcfdq.jpg",
     "link": "https://store.epicgames.com/en-US/p/zenless-zone-zero-c7c151",
     "platform": "Epic"
+  },
+  "Ghostrunner 2 | [Epic]": {
+    "title": "Ghostrunner 2",
+    "image": "https://cdn1.epicgames.com/item/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2PrePurchase_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba",
+    "link": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "platform": "Epic",
+    "new": true
+  },
+  "Monument Valley 2 | [Epic]": {
+    "title": "Monument Valley 2",
+    "image": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-tbqx3.jpg",
+    "link": "https://store.epicgames.com/en-US/p/monument-valley-2-addd02",
+    "platform": "Epic",
+    "new": true
+  },
+  "The Battle of Polytopia | [Epic]": {
+    "title": "The Battle of Polytopia",
+    "image": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1oqil.png",
+    "link": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6",
+    "platform": "Epic",
+    "new": true
   }
 }
