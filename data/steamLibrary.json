@@ -2614,5 +2614,11 @@
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774461/library_600x900.jpg?t=1728584545",
     "link": "https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/?snr=1_7_7_151_150_1",
     "platform": "Steam"
+  },
+  "Stellar Blade™ | [Steam]": {
+    "title": "Stellar Blade™",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/6f2bbe8f34fc283f42acbe4ab184e9a40f76ad51/library_600x900.jpg?t=1751868063",
+    "link": "https://store.steampowered.com/app/3489700/Stellar_Blade/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
   }
 }
