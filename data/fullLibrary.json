@@ -2620,7 +2620,136 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/6f2bbe8f34fc283f42acbe4ab184e9a40f76ad51/library_600x900.jpg?t=1751868063",
     "link": "https://store.steampowered.com/app/3489700/Stellar_Blade/?snr=1_7_7_151_150_1",
     "platform": "Steam",
-    "new": true
+    "new": true,
+    "newStatus": 1
+  },
+  "Celeste | [Steam]": {
+    "title": "Celeste",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/504230/library_600x900.jpg?t=1714089525",
+    "link": "https://store.steampowered.com/app/504230/Celeste/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "CRISIS CORE –FINAL FANTASY VII– REUNION | [Steam]": {
+    "title": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1608070/library_600x900.jpg?t=1727791468",
+    "link": "https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "FINAL FANTASY XVI | [Steam]": {
+    "title": "FINAL FANTASY XVI",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/library_600x900.jpg?t=1741059170",
+    "link": "https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Hired Ops | [Steam]": {
+    "title": "Hired Ops",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374280/library_600x900.jpg?t=1650735909",
+    "link": "https://store.steampowered.com/app/374280/Hired_Ops/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Metaphor: ReFantazio | [Steam]": {
+    "title": "Metaphor: ReFantazio",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg?t=1759508075",
+    "link": "https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "NIGHT-RUNNERS™ PROLOGUE | [Steam]": {
+    "title": "NIGHT-RUNNERS™ PROLOGUE",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2707900/library_600x900.jpg?t=1708958635",
+    "link": "https://store.steampowered.com/app/2707900/NIGHTRUNNERS_PROLOGUE/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Resident Evil | [Steam]": {
+    "title": "Resident Evil",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304240/library_600x900.jpg?t=1709710949",
+    "link": "https://store.steampowered.com/app/304240/Resident_Evil/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Resident Evil 0 | [Steam]": {
+    "title": "Resident Evil 0",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339340/library_600x900.jpg?t=1742177237",
+    "link": "https://store.steampowered.com/app/339340/Resident_Evil_0/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Resident Evil 5 | [Steam]": {
+    "title": "Resident Evil 5",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21690/library_600x900.jpg?t=1712193350",
+    "link": "https://store.steampowered.com/app/21690/Resident_Evil_5/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Resident Evil 6 | [Steam]": {
+    "title": "Resident Evil 6",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221040/library_600x900.jpg?t=1700452901",
+    "link": "https://store.steampowered.com/app/221040/Resident_Evil_6/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Resident Evil 7 Biohazard | [Steam]": {
+    "title": "Resident Evil 7 Biohazard",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418370/library_600x900.jpg?t=1728436752",
+    "link": "https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Resident Evil Village | [Steam]": {
+    "title": "Resident Evil Village",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg?t=1741142800",
+    "link": "https://store.steampowered.com/app/1196590/Resident_Evil_Village/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "skate. | [Steam]": {
+    "title": "skate.",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3354750/8dd654efd195e289b91d1d3afe1cbb24123fe6b5/library_capsule.jpg?t=1758921412",
+    "link": "https://store.steampowered.com/app/3354750/skate/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Tom Clancy's Rainbow Six® Siege X | [Steam]": {
+    "title": "Tom Clancy's Rainbow Six® Siege X",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/7d8f25258df36a3f04ba062b890bf109aab1ed2e/library_600x900.jpg?t=1757692841",
+    "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege_X/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Unturned | [Steam]": {
+    "title": "Unturned",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304930/f9e3f725d8155943c91a338a860cdfd011bfe2a0/library_capsule.jpg?t=1758732889",
+    "link": "https://store.steampowered.com/app/304930/Unturned/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Unturned - Dedicated Server | [Steam]": {
+    "title": "Unturned - Dedicated Server",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1110390/library_600x900.jpg?t=1574913911",
+    "link": "https://store.steampowered.com/app/1110390/Unturned__Dedicated_Server/",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
   },
   "112 Operator | [Epic]": {
     "title": "112 Operator",
@@ -3735,40 +3864,67 @@
   "Ghostrunner 2 | [Epic]": {
     "title": "Ghostrunner 2",
     "image": "https://cdn1.epicgames.com/item/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2PrePurchase_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba",
-    "link": "https://store.epicgames.com/en-US/p/ghostrunner-2"
+    "link": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "platform": "Epic"
   },
   "Monument Valley 2 | [Epic]": {
     "title": "Monument Valley 2",
     "image": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-tbqx3.jpg",
-    "link": "https://store.epicgames.com/en-US/p/monument-valley-2-addd02"
+    "link": "https://store.epicgames.com/en-US/p/monument-valley-2-addd02",
+    "platform": "Epic"
   },
   "The Battle of Polytopia | [Epic]": {
     "title": "The Battle of Polytopia",
     "image": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1oqil.png",
-    "link": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6"
+    "link": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6",
+    "platform": "Epic"
   },
   "Eastern Exorcist | [Epic]": {
     "title": "Eastern Exorcist",
     "image": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-14clo.png",
     "link": "https://store.epicgames.com/en-US/p/eastern-exorcist-d49923",
-    "new": true
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
   },
   "Jorel’s Brother and The Most Important Game of the Galaxy | [Epic]": {
     "title": "Jorel’s Brother and The Most Important Game of the Galaxy",
     "image": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-56mso.png",
     "link": "https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
-    "new": true
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
   },
   "Project Winter | [Epic]": {
     "title": "Project Winter",
     "image": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1kokt.png",
     "link": "https://store.epicgames.com/en-US/p/project-winter-3b9e84",
-    "new": true
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
   },
   "Samorost 2 | [Epic]": {
     "title": "Samorost 2",
     "image": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-g54vs.jpg",
     "link": "https://store.epicgames.com/en-US/p/samorost-2-1b9bb1",
-    "new": true
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
+  },
+  "Nightingale | [Epic]": {
+    "title": "Nightingale",
+    "image": "https://cdn1.epicgames.com/item/88e8dde0de8f44bdb3580d73e36d4157/NWXKeyArt_Epic2560x1440_2560x1440-19b30bbba974038620d73ca717a52d0e",
+    "link": "https://store.epicgames.com/en-US/p/nightingale",
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
+  },
+  "Nightingale - 0.3.2 | [Epic]": {
+    "title": "Nightingale - 0.3.2",
+    "image": "https://cdn1.epicgames.com/spt-assets/3c9f4ef0d1b240de9586b0cdd380ff92/nightingale-1gn0s.jpg",
+    "link": "https://store.epicgames.com/en-US/p/nightingale-nightingale-032-03be9d",
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
   }
 }

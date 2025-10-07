@@ -2578,5 +2578,47 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7510/library_600x900.jpg?t=1718187381",
     "link": "https://store.steampowered.com/app/7510/XBlades/?snr=1_7_7_151_150_1",
     "platform": "Steam"
+  },
+  "STAR WARS Jedi: Fallen Order™ | [Steam]": {
+    "title": "STAR WARS Jedi: Fallen Order™",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/library_600x900.jpg?t=1748950986",
+    "link": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "The Jackbox Party Pack | [Steam]": {
+    "title": "The Jackbox Party Pack",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331670/library_600x900.jpg?t=1728584088",
+    "link": "https://store.steampowered.com/app/331670/The_Jackbox_Party_Pack/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "The Jackbox Party Pack 2 | [Steam]": {
+    "title": "The Jackbox Party Pack 2",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397460/library_600x900.jpg?t=1728584193",
+    "link": "https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "The Jackbox Party Pack 3 | [Steam]": {
+    "title": "The Jackbox Party Pack 3",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434170/library_600x900.jpg?t=1728584278",
+    "link": "https://store.steampowered.com/app/434170/The_Jackbox_Party_Pack_3/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "The Jackbox Party Pack 4 | [Steam]": {
+    "title": "The Jackbox Party Pack 4",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/library_600x900.jpg?t=1728584458",
+    "link": "https://store.steampowered.com/app/610180/The_Jackbox_Party_Pack_4/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "The Jackbox Party Pack 5 | [Steam]": {
+    "title": "The Jackbox Party Pack 5",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774461/library_600x900.jpg?t=1728584545",
+    "link": "https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "Stellar Blade™ | [Steam]": {
+    "title": "Stellar Blade™",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/6f2bbe8f34fc283f42acbe4ab184e9a40f76ad51/library_600x900.jpg?t=1751868063",
+    "link": "https://store.steampowered.com/app/3489700/Stellar_Blade/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
   }
 }
