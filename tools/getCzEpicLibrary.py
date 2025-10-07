@@ -84,7 +84,7 @@ for game in data:
         gameData["link"] = None
 
     # Set Platform
-        gameData["platform"] = "Epic"
+    gameData["platform"] = "Epic"
 
     # Append formed data to the parent dictionary
     games[f"{gameData["title"]} | [Epic]"] = gameData
