@@ -2621,7 +2621,7 @@
     "link": "https://store.steampowered.com/app/3489700/Stellar_Blade/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Celeste | [Steam]": {
     "title": "Celeste",
@@ -2629,7 +2629,7 @@
     "link": "https://store.steampowered.com/app/504230/Celeste/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "CRISIS CORE –FINAL FANTASY VII– REUNION | [Steam]": {
     "title": "CRISIS CORE –FINAL FANTASY VII– REUNION",
@@ -2637,7 +2637,7 @@
     "link": "https://store.steampowered.com/app/1608070/CRISIS_CORE_FINAL_FANTASY_VII_REUNION/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "FINAL FANTASY XVI | [Steam]": {
     "title": "FINAL FANTASY XVI",
@@ -2645,7 +2645,7 @@
     "link": "https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Hired Ops | [Steam]": {
     "title": "Hired Ops",
@@ -2653,7 +2653,7 @@
     "link": "https://store.steampowered.com/app/374280/Hired_Ops/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Metaphor: ReFantazio | [Steam]": {
     "title": "Metaphor: ReFantazio",
@@ -2661,7 +2661,7 @@
     "link": "https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "NIGHT-RUNNERS™ PROLOGUE | [Steam]": {
     "title": "NIGHT-RUNNERS™ PROLOGUE",
@@ -2669,7 +2669,7 @@
     "link": "https://store.steampowered.com/app/2707900/NIGHTRUNNERS_PROLOGUE/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Resident Evil | [Steam]": {
     "title": "Resident Evil",
@@ -2677,7 +2677,7 @@
     "link": "https://store.steampowered.com/app/304240/Resident_Evil/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Resident Evil 0 | [Steam]": {
     "title": "Resident Evil 0",
@@ -2685,7 +2685,7 @@
     "link": "https://store.steampowered.com/app/339340/Resident_Evil_0/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Resident Evil 5 | [Steam]": {
     "title": "Resident Evil 5",
@@ -2693,7 +2693,7 @@
     "link": "https://store.steampowered.com/app/21690/Resident_Evil_5/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Resident Evil 6 | [Steam]": {
     "title": "Resident Evil 6",
@@ -2701,7 +2701,7 @@
     "link": "https://store.steampowered.com/app/221040/Resident_Evil_6/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Resident Evil 7 Biohazard | [Steam]": {
     "title": "Resident Evil 7 Biohazard",
@@ -2709,7 +2709,7 @@
     "link": "https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Resident Evil Village | [Steam]": {
     "title": "Resident Evil Village",
@@ -2717,7 +2717,7 @@
     "link": "https://store.steampowered.com/app/1196590/Resident_Evil_Village/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "skate. | [Steam]": {
     "title": "skate.",
@@ -2725,7 +2725,7 @@
     "link": "https://store.steampowered.com/app/3354750/skate/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Tom Clancy's Rainbow Six® Siege X | [Steam]": {
     "title": "Tom Clancy's Rainbow Six® Siege X",
@@ -2733,7 +2733,7 @@
     "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege_X/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Unturned | [Steam]": {
     "title": "Unturned",
@@ -2741,12 +2741,188 @@
     "link": "https://store.steampowered.com/app/304930/Unturned/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Unturned - Dedicated Server | [Steam]": {
     "title": "Unturned - Dedicated Server",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1110390/library_600x900.jpg?t=1574913911",
     "link": "https://store.steampowered.com/app/1110390/Unturned__Dedicated_Server/",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 2
+  },
+  "EVE Online | [Steam]": {
+    "title": "EVE Online",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8500/a32202ac03fd36077afcfc53298b23498137286b/library_capsule.jpg?t=1760962470",
+    "link": "https://store.steampowered.com/app/8500/EVE_Online/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Freddy Fazbear's Pizzeria Simulator | [Steam]": {
+    "title": "Freddy Fazbear's Pizzeria Simulator",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/738060/portrait.png?t=1512422259",
+    "link": "https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Helltaker | [Steam]": {
+    "title": "Helltaker",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289310/library_600x900.jpg?t=1620755466",
+    "link": "https://store.steampowered.com/app/1289310/Helltaker/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "IdleOn | [Steam]": {
+    "title": "IdleOn",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1476970/library_600x900.jpg?t=1756706677",
+    "link": "https://store.steampowered.com/app/1476970/IdleOn/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "MARVEL SNAP | [Steam]": {
+    "title": "MARVEL SNAP",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1997040/library_600x900.jpg?t=1743019547",
+    "link": "https://store.steampowered.com/app/1997040/MARVEL_SNAP/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "NGU IDLE | [Steam]": {
+    "title": "NGU IDLE",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1147690/library_600x900.jpg?t=1698784381",
+    "link": "https://store.steampowered.com/app/1147690/NGU_IDLE/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Old School RuneScape | [Steam]": {
+    "title": "Old School RuneScape",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1343370/library_600x900.jpg?t=1702553709",
+    "link": "https://store.steampowered.com/app/1343370/Old_School_RuneScape/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Overwatch® 2 | [Steam]": {
+    "title": "Overwatch® 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/9759ed6264db069c16e5ee005fc94981bf81c53a/library_capsule.jpg?t=1760744539",
+    "link": "https://store.steampowered.com/app/2357570/Overwatch_2/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Path of Exile | [Steam]": {
+    "title": "Path of Exile",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238960/a4a3fa0016fd0a98836fd697027220dd143130f2/library_capsule.jpg?t=1761254793",
+    "link": "https://store.steampowered.com/app/238960/Path_of_Exile/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "PlanetSide 2 | [Steam]": {
+    "title": "PlanetSide 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/218230/efdf9b4666e73166688b5e6ea256a91521217f8c/library_600x900.jpg?t=1732130400",
+    "link": "https://store.steampowered.com/app/218230/PlanetSide_2/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "PlanetSide 2 - Test | [Steam]": {
+    "title": "PlanetSide 2 - Test",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1083500/portrait.png?t=1623778069",
+    "link": "https://store.steampowered.com/app/1083500/PlanetSide_2__Test/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Resident Evil 6 Benchmark Tool | [Steam]": {
+    "title": "Resident Evil 6 Benchmark Tool",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/229950/portrait.png?t=1447357287",
+    "link": "https://store.steampowered.com/app/229950/Resident_Evil_6_Benchmark_Tool/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "RuneScape ® | [Steam]": {
+    "title": "RuneScape ®",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1343400/library_600x900.jpg?t=1750692577",
+    "link": "https://store.steampowered.com/app/1343400/RuneScape/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "The Sims™ 4 | [Steam]": {
+    "title": "The Sims™ 4",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222670/library_600x900.jpg?t=1760029137",
+    "link": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "SimShock2025 | [Steam]": {
+    "title": "SimShock2025",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3704810/a79ca2fa194990dbeef4af8f9395b558c5d87487/library_600x900.jpg?t=1748420769",
+    "link": "https://store.steampowered.com/app/3704810/SimShock2025/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "SMITE 2 | [Steam]": {
+    "title": "SMITE 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2437170/8bec766b6250b08fb72379c79cfc14f068564e15/library_capsule.jpg?t=1759835632",
+    "link": "https://store.steampowered.com/app/2437170/SMITE_2/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "SMITE® | [Steam]": {
+    "title": "SMITE®",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/386360/79115b45914d6a9dad3a21d7150aed56f3318b59/library_600x900.jpg?t=1737467023",
+    "link": "https://store.steampowered.com/app/386360/SMITE/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "Steam 360 Video Player | [Steam]": {
+    "title": "Steam 360 Video Player",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613220/portrait.png?t=1555972654",
+    "link": null,
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "SteamVR | [Steam]": {
+    "title": "SteamVR",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250820/library_600x900.jpg?t=1574723957",
+    "link": "https://store.steampowered.com/app/250820/SteamVR/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "War Thunder | [Steam]": {
+    "title": "War Thunder",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/f888690c0adc951d91223298db97ce22e5b4bed0/library_capsule.jpg?t=1760699357",
+    "link": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "World of Tanks | [Steam]": {
+    "title": "World of Tanks",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1407200/5fd5f01a55e206331de1a1278e84f94c2d490488/library_capsule.jpg?t=1761208546",
+    "link": "https://store.steampowered.com/app/1407200/World_of_Tanks/?snr=1_7_7_151_150_1",
+    "platform": "Steam",
+    "new": true,
+    "newStatus": 1
+  },
+  "World of Tanks Blitz | [Steam]": {
+    "title": "World of Tanks Blitz",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/444200/93105b8fca3db44da31950d683c02814c501365e/library_capsule.jpg?t=1761303132",
+    "link": "https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
     "newStatus": 1
@@ -3885,7 +4061,7 @@
     "link": "https://store.epicgames.com/en-US/p/eastern-exorcist-d49923",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Jorel’s Brother and The Most Important Game of the Galaxy | [Epic]": {
     "title": "Jorel’s Brother and The Most Important Game of the Galaxy",
@@ -3893,7 +4069,7 @@
     "link": "https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Project Winter | [Epic]": {
     "title": "Project Winter",
@@ -3901,7 +4077,7 @@
     "link": "https://store.epicgames.com/en-US/p/project-winter-3b9e84",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Samorost 2 | [Epic]": {
     "title": "Samorost 2",
@@ -3909,7 +4085,7 @@
     "link": "https://store.epicgames.com/en-US/p/samorost-2-1b9bb1",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Nightingale | [Epic]": {
     "title": "Nightingale",
@@ -3917,12 +4093,52 @@
     "link": "https://store.epicgames.com/en-US/p/nightingale",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Nightingale - 0.3.2 | [Epic]": {
     "title": "Nightingale - 0.3.2",
     "image": "https://cdn1.epicgames.com/spt-assets/3c9f4ef0d1b240de9586b0cdd380ff92/nightingale-1gn0s.jpg",
     "link": "https://store.epicgames.com/en-US/p/nightingale-nightingale-032-03be9d",
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 2
+  },
+  "Amnesia: The Bunker | [Epic]": {
+    "title": "Amnesia: The Bunker",
+    "image": "https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-lyyfp.png",
+    "link": "https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799",
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
+  },
+  "Asphalt Legends | [Epic]": {
+    "title": "Asphalt Legends",
+    "image": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-11odw.jpg",
+    "link": "https://store.epicgames.com/en-US/p/asphalt-legends-unite-4db4c6",
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
+  },
+  "Fear the Spotlight | [Epic]": {
+    "title": "Fear the Spotlight",
+    "image": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-fiq42.jpg",
+    "link": "https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f",
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
+  },
+  "Gravity Circuit | [Epic]": {
+    "title": "Gravity Circuit",
+    "image": "https://cdn1.epicgames.com/spt-assets/c259931bc98344a1a16427cb079f049f/gravity-circuit-offer-bngjv.jpg",
+    "link": "https://store.epicgames.com/en-US/p/gravity-circuit-489baa",
+    "platform": "Epic",
+    "new": true,
+    "newStatus": 1
+  },
+  "Samorost 3 | [Epic]": {
+    "title": "Samorost 3",
+    "image": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-anmgw.jpg",
+    "link": "https://store.epicgames.com/en-US/p/samorost-3-0c4489",
     "platform": "Epic",
     "new": true,
     "newStatus": 1

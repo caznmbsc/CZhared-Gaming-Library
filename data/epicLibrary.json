@@ -1162,5 +1162,35 @@
         "image": "https://cdn1.epicgames.com/spt-assets/3c9f4ef0d1b240de9586b0cdd380ff92/nightingale-1gn0s.jpg",
         "link": "https://store.epicgames.com/en-US/p/nightingale-nightingale-032-03be9d",
         "platform": "Epic"
+    },
+    "Amnesia: The Bunker | [Epic]": {
+        "title": "Amnesia: The Bunker",
+        "image": "https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-lyyfp.png",
+        "link": "https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799",
+        "platform": "Epic"
+    },
+    "Asphalt Legends | [Epic]": {
+        "title": "Asphalt Legends",
+        "image": "https://cdn1.epicgames.com/spt-assets/d8ab81c396c540228dbbfdfbff3369c6/asphalt-legends-11odw.jpg",
+        "link": "https://store.epicgames.com/en-US/p/asphalt-legends-unite-4db4c6",
+        "platform": "Epic"
+    },
+    "Fear the Spotlight | [Epic]": {
+        "title": "Fear the Spotlight",
+        "image": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-fiq42.jpg",
+        "link": "https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f",
+        "platform": "Epic"
+    },
+    "Gravity Circuit | [Epic]": {
+        "title": "Gravity Circuit",
+        "image": "https://cdn1.epicgames.com/spt-assets/c259931bc98344a1a16427cb079f049f/gravity-circuit-offer-bngjv.jpg",
+        "link": "https://store.epicgames.com/en-US/p/gravity-circuit-489baa",
+        "platform": "Epic"
+    },
+    "Samorost 3 | [Epic]": {
+        "title": "Samorost 3",
+        "image": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-anmgw.jpg",
+        "link": "https://store.epicgames.com/en-US/p/samorost-3-0c4489",
+        "platform": "Epic"
     }
 }
