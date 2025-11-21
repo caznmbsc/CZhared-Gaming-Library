@@ -2848,5 +2848,23 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/444200/93105b8fca3db44da31950d683c02814c501365e/library_capsule.jpg?t=1761303132",
     "link": "https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/?snr=1_7_7_151_150_1",
     "platform": "Steam"
+  },
+  "Dead as Disco Demo | [Steam]": {
+    "title": "Dead as Disco Demo",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3763830/e5352e951d5e9201b63a06bba579b6cf607aac36/library_600x900.jpg?t=1755729285",
+    "link": "https://store.steampowered.com/app/3763830/Dead_as_Disco_Demo/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "Dispatch | [Steam]": {
+    "title": "Dispatch",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2592160/6754ae9d2f555ee1cf37f9d44021d34554d9991d/library_600x900.jpg?t=1763398023",
+    "link": "https://store.steampowered.com/app/2592160/Dispatch/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "Virtua Fighter 5 R.E.V.O. World Stage | [Steam]": {
+    "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3112260/2e12da8653caeab100a44cf0dcf459a85f4c30c1/library_capsule.jpg?t=1763693838",
+    "link": "https://store.steampowered.com/app/3112260/_Virtua_Fighter_5_REVO_World_Stage/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
   }
 }
