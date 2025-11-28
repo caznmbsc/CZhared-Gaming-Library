@@ -46,7 +46,7 @@ body {
     width: 50%;
     margin-left: 25%;
     margin-top: 5vh;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
     background-color: rgba(0, 0, 0, 0.75);
     border-radius: 20px 20px 0 0;
     border: 5px double;
@@ -54,13 +54,53 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.bulletin h1 {
+.bulletin.footer {
+    margin-top: 2.5vh;
+    margin-bottom: 25px;
+    border-radius: 0px 0px 20px 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: clamp(0.375rem, 2.25vw, 25px);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+.bulletinImg {
+    width: 75%;
+    height: auto;
+}
+
+.bulletin.footer a {
+    padding: 10px;
+}
+
+.bulletin :is(h1, h2, h3, h4, h5, h6) {
     color: white;
     font-size: clamp(1.25rem, 3.5vw, 60px);
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 5px;
+    margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.bulletin ol, ul {
+    color: white;
+    font-size: clamp(0.75rem, 2.25vw, 50px);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    margin-top: 0;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.bulletin ul {
+    text-align: left;
+    margin-left: 5vw;
+}
+
+.answers {
+    padding-bottom: 10px;
 }
 
 .bulletin p {
@@ -68,7 +108,7 @@ body {
     font-size: clamp(0.75rem, 2.25vw, 50px);
     padding-left: 25px;
     padding-right: 25px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     margin-top: 0;
 }
 
@@ -83,7 +123,7 @@ body {
     width: 40%;
     margin-left: 30%;
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 25px;
 
 }
 
