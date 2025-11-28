@@ -2866,5 +2866,23 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3112260/2e12da8653caeab100a44cf0dcf459a85f4c30c1/library_capsule.jpg?t=1763693838",
     "link": "https://store.steampowered.com/app/3112260/_Virtua_Fighter_5_REVO_World_Stage/?snr=1_7_7_151_150_1",
     "platform": "Steam"
+  },
+  "No, I'm not a Human | [Steam]": {
+    "title": "No, I'm not a Human",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3180070/463354a2b81d416ddb538aa80fe65c75d0e4dcea/library_600x900.jpg?t=1761654689",
+    "link": "https://store.steampowered.com/app/3180070/No_Im_not_a_Human/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "STAR WARS™: The Old Republic™ | [Steam]": {
+    "title": "STAR WARS™: The Old Republic™",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1286830/library_600x900.jpg?t=1764088482",
+    "link": "https://store.steampowered.com/app/1286830/STAR_WARS_The_Old_Republic/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "Where Winds Meet | [Steam]": {
+    "title": "Where Winds Meet",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/2ca8b95c52577eae830c347ff9292369fc950d57/library_capsule.jpg?t=1763157550",
+    "link": "https://store.steampowered.com/app/3564740/Where_Winds_Meet/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
   }
 }
