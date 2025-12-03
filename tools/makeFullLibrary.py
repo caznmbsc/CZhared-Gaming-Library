@@ -9,6 +9,8 @@ with open(dataFolder.joinpath("steamLibrary.json"), "r", encoding="utf-8") as ol
     libraryList.append(json.load(oldData))
 with open(dataFolder.joinpath("epicLibrary.json"), "r", encoding="utf-8") as oldData:
     libraryList.append(json.load(oldData))
+with open(dataFolder.joinpath("rockstarLibrary.json"), "r", encoding="utf-8") as oldData:
+    libraryList.append(json.load(oldData))
 
 for library in libraryList:
     fullData = fullData | library
