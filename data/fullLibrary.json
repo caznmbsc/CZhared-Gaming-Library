@@ -2822,7 +2822,7 @@
   "Steam 360 Video Player | [Steam]": {
     "title": "Steam 360 Video Player",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613220/portrait.png?t=1555972654",
-    "link": null,
+    "link": "https://store.steampowered.com/app/613220/Steam_360_Video_Player/",
     "platform": "Steam"
   },
   "SteamVR | [Steam]": {
@@ -2871,25 +2871,19 @@
     "title": "No, I'm not a Human",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3180070/463354a2b81d416ddb538aa80fe65c75d0e4dcea/library_600x900.jpg?t=1761654689",
     "link": "https://store.steampowered.com/app/3180070/No_Im_not_a_Human/?snr=1_7_7_151_150_1",
-    "platform": "Steam",
-    "new": true,
-    "newStatus": 3
+    "platform": "Steam"
   },
   "STAR WARS™: The Old Republic™ | [Steam]": {
     "title": "STAR WARS™: The Old Republic™",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1286830/library_600x900.jpg?t=1764088482",
     "link": "https://store.steampowered.com/app/1286830/STAR_WARS_The_Old_Republic/?snr=1_7_7_151_150_1",
-    "platform": "Steam",
-    "new": true,
-    "newStatus": 3
+    "platform": "Steam"
   },
   "Where Winds Meet | [Steam]": {
     "title": "Where Winds Meet",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/2ca8b95c52577eae830c347ff9292369fc950d57/library_capsule.jpg?t=1763157550",
     "link": "https://store.steampowered.com/app/3564740/Where_Winds_Meet/?snr=1_7_7_151_150_1",
-    "platform": "Steam",
-    "new": true,
-    "newStatus": 3
+    "platform": "Steam"
   },
   "Another Crab's Treasure | [Steam]": {
     "title": "Another Crab's Treasure",
@@ -2897,7 +2891,7 @@
     "link": "https://store.steampowered.com/app/1887840/Another_Crabs_Treasure/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Cuphead | [Steam]": {
     "title": "Cuphead",
@@ -2905,7 +2899,7 @@
     "link": "https://store.steampowered.com/app/268910/Cuphead/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Dark Pictures Anthology: House of Ashes | [Steam]": {
     "title": "The Dark Pictures Anthology: House of Ashes",
@@ -2913,15 +2907,15 @@
     "link": "https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Dark Pictures Anthology: House of Ashes - Friend's Pass | [Steam]": {
     "title": "The Dark Pictures Anthology: House of Ashes - Friend's Pass",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775270/library_600x900.jpg?t=1643385626",
-    "link": null,
+    "link": "https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Dark Pictures Anthology: Little Hope | [Steam]": {
     "title": "The Dark Pictures Anthology: Little Hope",
@@ -2929,15 +2923,15 @@
     "link": "https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Dark Pictures Anthology: Little Hope - Friend's Pass | [Steam]": {
     "title": "The Dark Pictures Anthology: Little Hope - Friend's Pass",
     "image": "https://store.akamai.steamstatic.com/public/images/applications/store/defaultappimage.png?v=085a01032e80641021a420f4342cb8fb",
-    "link": null,
+    "link": "https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Dark Pictures Anthology: Man of Medan | [Steam]": {
     "title": "The Dark Pictures Anthology: Man of Medan",
@@ -2945,15 +2939,15 @@
     "link": "https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Dark Pictures: Man of Medan - Friend's Pass | [Steam]": {
     "title": "The Dark Pictures: Man of Medan - Friend's Pass",
     "image": "https://store.akamai.steamstatic.com/public/images/applications/store/defaultappimage.png?v=085a01032e80641021a420f4342cb8fb",
-    "link": null,
+    "link": "https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Detroit: Become Human | [Steam]": {
     "title": "Detroit: Become Human",
@@ -2961,15 +2955,15 @@
     "link": "https://store.steampowered.com/app/1222140/Detroit_Become_Human/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Elder Scrolls III: Morrowind | [Steam]": {
     "title": "The Elder Scrolls III: Morrowind",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22320/library_600x900.jpg?t=1760029380",
-    "link": null,
+    "link": "https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Etrian Odyssey HD | [Steam]": {
     "title": "Etrian Odyssey HD",
@@ -2977,7 +2971,7 @@
     "link": "https://store.steampowered.com/app/1868180/Etrian_Odyssey_HD/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "God of War | [Steam]": {
     "title": "God of War",
@@ -2985,7 +2979,7 @@
     "link": "https://store.steampowered.com/app/1593500/God_of_War/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Heavy Rain | [Steam]": {
     "title": "Heavy Rain",
@@ -2993,7 +2987,7 @@
     "link": "https://store.steampowered.com/app/960910/Heavy_Rain/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "L.A. Noire | [Steam]": {
     "title": "L.A. Noire",
@@ -3001,15 +2995,15 @@
     "link": "https://store.steampowered.com/app/110800/LA_Noire/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "L.A. Noire: DLC Bundle | [Steam]": {
     "title": "L.A. Noire: DLC Bundle",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/110810/portrait.png",
-    "link": null,
+    "link": "https://store.steampowered.com/app/110800/LA_Noire/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Marvel’s Spider-Man Remastered | [Steam]": {
     "title": "Marvel’s Spider-Man Remastered",
@@ -3017,7 +3011,7 @@
     "link": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Mortal Kombat 1 | [Steam]": {
     "title": "Mortal Kombat 1",
@@ -3025,7 +3019,7 @@
     "link": "https://store.steampowered.com/app/1971870/Mortal_Kombat_1/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "No More Heroes 3 | [Steam]": {
     "title": "No More Heroes 3",
@@ -3033,7 +3027,7 @@
     "link": "https://store.steampowered.com/app/1744330/No_More_Heroes_3/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Paleo Pines | [Steam]": {
     "title": "Paleo Pines",
@@ -3041,7 +3035,7 @@
     "link": "https://store.steampowered.com/app/1202200/Paleo_Pines/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Pharaoh: A New Era | [Steam]": {
     "title": "Pharaoh: A New Era",
@@ -3049,7 +3043,7 @@
     "link": "https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Purple Place - Classic Games | [Steam]": {
     "title": "Purple Place - Classic Games",
@@ -3057,7 +3051,7 @@
     "link": "https://store.steampowered.com/app/1117090/Purple_Place__Classic_Games/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Quarry | [Steam]": {
     "title": "The Quarry",
@@ -3065,7 +3059,7 @@
     "link": "https://store.steampowered.com/app/1577120/The_Quarry/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Spin Hero | [Steam]": {
     "title": "Spin Hero",
@@ -3073,7 +3067,7 @@
     "link": "https://store.steampowered.com/app/2917350/Spin_Hero/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Stardew Valley | [Steam]": {
     "title": "Stardew Valley",
@@ -3081,7 +3075,7 @@
     "link": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Synergy | [Steam]": {
     "title": "Synergy",
@@ -3089,7 +3083,7 @@
     "link": "https://store.steampowered.com/app/1989070/Synergy/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Total War: WARHAMMER III | [Steam]": {
     "title": "Total War: WARHAMMER III",
@@ -3097,7 +3091,7 @@
     "link": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Undertale | [Steam]": {
     "title": "Undertale",
@@ -3105,7 +3099,7 @@
     "link": "https://store.steampowered.com/app/391540/Undertale/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "The Walking Dead: The Telltale Definitive Series | [Steam]": {
     "title": "The Walking Dead: The Telltale Definitive Series",
@@ -3113,15 +3107,15 @@
     "link": "https://store.steampowered.com/app/1449690/The_Walking_Dead_The_Telltale_Definitive_Series/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   },
   "Shadow of the Tomb Raider | [Steam]": {
     "title": "Shadow of the Tomb Raider",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/750920/library_600x900.jpg?t=1765239925",
-    "link": null,
+    "link": "https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "SPLITGATE: Arena Reloaded | [Steam]": {
     "title": "SPLITGATE: Arena Reloaded",
@@ -3129,7 +3123,7 @@
     "link": "https://store.steampowered.com/app/2918300/SPLITGATE_Arena_Reloaded/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "UNDER NIGHT IN-BIRTH II Sys:Celes | [Steam]": {
     "title": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -3137,7 +3131,7 @@
     "link": "https://store.steampowered.com/app/2076010/UNDER_NIGHT_INBIRTH_II_SysCeles/?snr=1_7_7_151_150_1",
     "platform": "Steam",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "112 Operator | [Epic]": {
     "title": "112 Operator",
@@ -4360,7 +4354,7 @@
   "Songs of Silence | [Epic]": {
     "title": "Songs of Silence",
     "image": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-acb7y.jpg",
-    "link": null,
+    "link": "https://store.epicgames.com/en-US/p/songs-of-silence-778d86",
     "platform": "Epic"
   },
   "Zero Hour | [Epic]": {
@@ -4379,9 +4373,7 @@
     "title": "Universe for Sale",
     "image": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-dgru3.jpg",
     "link": "https://store.epicgames.com/en-US/p/universe-for-sale-05c53e",
-    "platform": "Epic",
-    "new": true,
-    "newStatus": 3
+    "platform": "Epic"
   },
   "Blood West | [Epic]": {
     "title": "Blood West",
@@ -4389,7 +4381,7 @@
     "link": "https://store.epicgames.com/en-US/p/blood-west-8f6ffd",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Bloodstained: Ritual of the Night | [Epic]": {
     "title": "Bloodstained: Ritual of the Night",
@@ -4397,7 +4389,7 @@
     "link": "https://store.epicgames.com/en-US/p/bloodstained-f3f575",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Cassette Beasts | [Epic]": {
     "title": "Cassette Beasts",
@@ -4405,7 +4397,7 @@
     "link": "https://store.epicgames.com/en-US/p/cassette-beasts-32c8e0",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Chivalry 2 | [Epic]": {
     "title": "Chivalry 2",
@@ -4413,15 +4405,15 @@
     "link": "https://store.epicgames.com/en-US/p/chivalry-2",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Chivalry 2 - Public Testing | [Epic]": {
     "title": "Chivalry 2 - Public Testing",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/public testing EGS 2560 x 1440 library_2560x1440-ecdbbd73fe497057d156aa4f3980599d",
-    "link": null,
+    "link": "https://store.epicgames.com/en-US/p/chivalry-2",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Disco Elysium - The Final Cut | [Epic]": {
     "title": "Disco Elysium - The Final Cut",
@@ -4429,7 +4421,7 @@
     "link": "https://store.epicgames.com/en-US/p/disco-elysium",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Eternights | [Epic]": {
     "title": "Eternights",
@@ -4437,7 +4429,7 @@
     "link": "https://store.epicgames.com/en-US/p/eternights-c2fbca",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Hogwarts Legacy | [Epic]": {
     "title": "Hogwarts Legacy",
@@ -4445,7 +4437,7 @@
     "link": "https://store.epicgames.com/en-US/p/hogwarts-legacy",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Infinity Nikki | [Epic]": {
     "title": "Infinity Nikki",
@@ -4453,15 +4445,15 @@
     "link": "https://store.epicgames.com/en-US/p/infinity-nikki-71fc64",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Nightingale - Legacy Mode | [Epic]": {
     "title": "Nightingale - Legacy Mode",
     "image": "https://cdn1.epicgames.com/spt-assets/3c9f4ef0d1b240de9586b0cdd380ff92/nightingale-1gn0s.jpg",
-    "link": null,
+    "link": "https://store.epicgames.com/en-US/p/nightingale-nightingale-032-03be9d",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Paradise Killer | [Epic]": {
     "title": "Paradise Killer",
@@ -4469,7 +4461,7 @@
     "link": "https://store.epicgames.com/en-US/p/paradise-killer-c3ea1c",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "SKALD Against the Black Priory | [Epic]": {
     "title": "SKALD Against the Black Priory",
@@ -4477,7 +4469,7 @@
     "link": "https://store.epicgames.com/en-US/p/skald-against-the-black-priory-cffcc0",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Sorry We're Closed | [Epic]": {
     "title": "Sorry We're Closed",
@@ -4485,7 +4477,7 @@
     "link": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "The Callisto Protocol | [Epic]": {
     "title": "The Callisto Protocol",
@@ -4493,7 +4485,7 @@
     "link": "https://store.epicgames.com/en-US/p/the-callisto-protocol",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "The Darkside Detective | [Epic]": {
     "title": "The Darkside Detective",
@@ -4501,7 +4493,7 @@
     "link": "https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "The Jackbox Party Pack 4 | [Epic]": {
     "title": "The Jackbox Party Pack 4",
@@ -4509,7 +4501,7 @@
     "link": "https://store.epicgames.com/en-US/p/jackbox-party-pack-4",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Total War: THREE KINGDOMS | [Epic]": {
     "title": "Total War: THREE KINGDOMS",
@@ -4517,7 +4509,7 @@
     "link": "https://store.epicgames.com/en-US/p/total-war-three-kingdoms-d3bb7a",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Trine 2: Complete Story | [Epic]": {
     "title": "Trine 2: Complete Story",
@@ -4525,7 +4517,7 @@
     "link": "https://store.epicgames.com/en-US/p/trine-2-complete-story-d7aa74",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Trine 3: The Artifacts of Power | [Epic]": {
     "title": "Trine 3: The Artifacts of Power",
@@ -4533,7 +4525,7 @@
     "link": "https://store.epicgames.com/en-US/p/trine-3-the-artifacts-of-power-ce0121",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Trine 4: Definitive Edition | [Epic]": {
     "title": "Trine 4: Definitive Edition",
@@ -4541,7 +4533,7 @@
     "link": "https://store.epicgames.com/en-US/p/trine-4-definitive-edition-89d5bd",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Trine Enchanted Edition | [Epic]": {
     "title": "Trine Enchanted Edition",
@@ -4549,7 +4541,7 @@
     "link": "https://store.epicgames.com/en-US/p/trine-enchanted-edition-d1d59d",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Viewfinder | [Epic]": {
     "title": "Viewfinder",
@@ -4557,7 +4549,7 @@
     "link": "https://store.epicgames.com/en-US/p/viewfinder-61691c",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "We Were Here Together | [Epic]": {
     "title": "We Were Here Together",
@@ -4565,7 +4557,7 @@
     "link": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Wildgate | [Epic]": {
     "title": "Wildgate",
@@ -4573,7 +4565,7 @@
     "link": "https://store.epicgames.com/en-US/p/wildgate-2e3419",
     "platform": "Epic",
     "new": true,
-    "newStatus": 1
+    "newStatus": 2
   },
   "Grand Theft Auto V | [Rockstar]": {
     "title": "Grand Theft Auto V",
@@ -4581,6 +4573,6 @@
     "link": "https://www.rockstargames.com/gta-v",
     "platform": "Rockstar",
     "new": true,
-    "newStatus": 2
+    "newStatus": 3
   }
 }
