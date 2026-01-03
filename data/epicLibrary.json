@@ -1220,7 +1220,7 @@
     "Songs of Silence | [Epic]": {
         "title": "Songs of Silence",
         "image": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-acb7y.jpg",
-        "link": null,
+        "link": "https://store.epicgames.com/en-US/p/songs-of-silence-778d86",
         "platform": "Epic"
     },
     "Zero Hour | [Epic]": {
@@ -1239,6 +1239,150 @@
         "title": "Universe for Sale",
         "image": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-dgru3.jpg",
         "link": "https://store.epicgames.com/en-US/p/universe-for-sale-05c53e",
+        "platform": "Epic"
+    },
+    "Blood West | [Epic]": {
+        "title": "Blood West",
+        "image": "https://cdn1.epicgames.com/spt-assets/ea39630551474fdab17e71a31e1e9db5/blood-west-19z6t.png",
+        "link": "https://store.epicgames.com/en-US/p/blood-west-8f6ffd",
+        "platform": "Epic"
+    },
+    "Bloodstained: Ritual of the Night | [Epic]": {
+        "title": "Bloodstained: Ritual of the Night",
+        "image": "https://cdn1.epicgames.com/spt-assets/c360060cd82d447da81e349386153809/bloodstained-ritual-of-the-night-rx3os.jpg",
+        "link": "https://store.epicgames.com/en-US/p/bloodstained-f3f575",
+        "platform": "Epic"
+    },
+    "Cassette Beasts | [Epic]": {
+        "title": "Cassette Beasts",
+        "image": "https://cdn1.epicgames.com/spt-assets/c313d3804fb64aefa57f0a7b827ec389/cassette-beasts-1eoeo.png",
+        "link": "https://store.epicgames.com/en-US/p/cassette-beasts-32c8e0",
+        "platform": "Epic"
+    },
+    "Chivalry 2 | [Epic]": {
+        "title": "Chivalry 2",
+        "image": "https://cdn1.epicgames.com/item/bd46d4ce259349e5bd8b3ded20274737/EGS_Chivalry2_TornBannerStudios_S1_2560x1440-4248ed263080045c7cb13960711c5f58",
+        "link": "https://store.epicgames.com/en-US/p/chivalry-2",
+        "platform": "Epic"
+    },
+    "Chivalry 2 - Public Testing | [Epic]": {
+        "title": "Chivalry 2 - Public Testing",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/public testing EGS 2560 x 1440 library_2560x1440-ecdbbd73fe497057d156aa4f3980599d",
+        "link": "https://store.epicgames.com/en-US/p/chivalry-2",
+        "platform": "Epic"
+    },
+    "Disco Elysium - The Final Cut | [Epic]": {
+        "title": "Disco Elysium - The Final Cut",
+        "image": "https://cdn1.epicgames.com/spt-assets/9003e1ade0b14e8688b08030e7a335fd/disco-elysium-1dbyw.jpg",
+        "link": "https://store.epicgames.com/en-US/p/disco-elysium",
+        "platform": "Epic"
+    },
+    "Eternights | [Epic]": {
+        "title": "Eternights",
+        "image": "https://cdn1.epicgames.com/spt-assets/63c94a59a4b84942a5ea12a818ad13d0/eternights-offer-11r8i.jpg",
+        "link": "https://store.epicgames.com/en-US/p/eternights-c2fbca",
+        "platform": "Epic"
+    },
+    "Hogwarts Legacy | [Epic]": {
+        "title": "Hogwarts Legacy",
+        "image": "https://cdn1.epicgames.com/item/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S1_2560x1440-aa80981dd7c9b3f26b12606974a76dba",
+        "link": "https://store.epicgames.com/en-US/p/hogwarts-legacy",
+        "platform": "Epic"
+    },
+    "Infinity Nikki | [Epic]": {
+        "title": "Infinity Nikki",
+        "image": "https://cdn1.epicgames.com/spt-assets/8d6db22e08f34ac29247bfbef5ba97a9/infinity-nikki-aoh4p.jpg",
+        "link": "https://store.epicgames.com/en-US/p/infinity-nikki-71fc64",
+        "platform": "Epic"
+    },
+    "Nightingale - Legacy Mode | [Epic]": {
+        "title": "Nightingale - Legacy Mode",
+        "image": "https://cdn1.epicgames.com/spt-assets/3c9f4ef0d1b240de9586b0cdd380ff92/nightingale-1gn0s.jpg",
+        "link": "https://store.epicgames.com/en-US/p/nightingale-nightingale-032-03be9d",
+        "platform": "Epic"
+    },
+    "Paradise Killer | [Epic]": {
+        "title": "Paradise Killer",
+        "image": "https://cdn1.epicgames.com/spt-assets/4ffbf3fddf3343c2af7d6c49cf3014b6/download-paradise-killer-offer-y4nni.jpg",
+        "link": "https://store.epicgames.com/en-US/p/paradise-killer-c3ea1c",
+        "platform": "Epic"
+    },
+    "SKALD Against the Black Priory | [Epic]": {
+        "title": "SKALD Against the Black Priory",
+        "image": "https://cdn1.epicgames.com/spt-assets/b96afc9b56fd444384f48bac79bb2bf6/skald-against-the-black-priory-22ved.png",
+        "link": "https://store.epicgames.com/en-US/p/skald-against-the-black-priory-cffcc0",
+        "platform": "Epic"
+    },
+    "Sorry We're Closed | [Epic]": {
+        "title": "Sorry We're Closed",
+        "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1c6pv.png",
+        "link": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
+        "platform": "Epic"
+    },
+    "The Callisto Protocol | [Epic]": {
+        "title": "The Callisto Protocol",
+        "image": "https://cdn1.epicgames.com/item/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa",
+        "link": "https://store.epicgames.com/en-US/p/the-callisto-protocol",
+        "platform": "Epic"
+    },
+    "The Darkside Detective | [Epic]": {
+        "title": "The Darkside Detective",
+        "image": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-offer-y3rod.jpg",
+        "link": "https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a",
+        "platform": "Epic"
+    },
+    "The Jackbox Party Pack 4 | [Epic]": {
+        "title": "The Jackbox Party Pack 4",
+        "image": "https://cdn1.epicgames.com/item/snowdrop/PP4_WideImage_2560x1440-af8d584f847d181c0831ad238cfc4076",
+        "link": "https://store.epicgames.com/en-US/p/jackbox-party-pack-4",
+        "platform": "Epic"
+    },
+    "Total War: THREE KINGDOMS | [Epic]": {
+        "title": "Total War: THREE KINGDOMS",
+        "image": "https://cdn1.epicgames.com/spt-assets/3dafb7abbfc34385ba581cad1424865a/not-in-use--total-war-three-kingdoms-khg8t.jpg",
+        "link": "https://store.epicgames.com/en-US/p/total-war-three-kingdoms-d3bb7a",
+        "platform": "Epic"
+    },
+    "Trine 2: Complete Story | [Epic]": {
+        "title": "Trine 2: Complete Story",
+        "image": "https://cdn1.epicgames.com/spt-assets/50b4d2b4f87d440997ebfbb3a1005dca/trine-2-complete-story-ikzws.jpg",
+        "link": "https://store.epicgames.com/en-US/p/trine-2-complete-story-d7aa74",
+        "platform": "Epic"
+    },
+    "Trine 3: The Artifacts of Power | [Epic]": {
+        "title": "Trine 3: The Artifacts of Power",
+        "image": "https://cdn1.epicgames.com/spt-assets/10a55229d552428ab7778f4862bf5dc0/trine-3-the-artifacts-of-power-1pb8u.jpg",
+        "link": "https://store.epicgames.com/en-US/p/trine-3-the-artifacts-of-power-ce0121",
+        "platform": "Epic"
+    },
+    "Trine 4: Definitive Edition | [Epic]": {
+        "title": "Trine 4: Definitive Edition",
+        "image": "https://cdn1.epicgames.com/spt-assets/b61d8ed9ff724cfe969ee79b41e604a5/trine-4-definitive-edition-14xl2.jpg",
+        "link": "https://store.epicgames.com/en-US/p/trine-4-definitive-edition-89d5bd",
+        "platform": "Epic"
+    },
+    "Trine Enchanted Edition | [Epic]": {
+        "title": "Trine Enchanted Edition",
+        "image": "https://cdn1.epicgames.com/spt-assets/ca4cbfe5a72249b48656cdde1804f434/trine-enchanted-edition-tsp1m.jpg",
+        "link": "https://store.epicgames.com/en-US/p/trine-enchanted-edition-d1d59d",
+        "platform": "Epic"
+    },
+    "Viewfinder | [Epic]": {
+        "title": "Viewfinder",
+        "image": "https://cdn1.epicgames.com/spt-assets/215584b8c0224111b8339bfb5589ba0f/viewfinder-1dylf.jpg",
+        "link": "https://store.epicgames.com/en-US/p/viewfinder-61691c",
+        "platform": "Epic"
+    },
+    "We Were Here Together | [Epic]": {
+        "title": "We Were Here Together",
+        "image": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1ovvn.png",
+        "link": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
+        "platform": "Epic"
+    },
+    "Wildgate | [Epic]": {
+        "title": "Wildgate",
+        "image": "https://cdn1.epicgames.com/spt-assets/66d8f537f1aa4636985ff868d51651eb/wildgate-1wpsu.jpg",
+        "link": "https://store.epicgames.com/en-US/p/wildgate-2e3419",
         "platform": "Epic"
     }
 }

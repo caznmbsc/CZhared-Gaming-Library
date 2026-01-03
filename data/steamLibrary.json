@@ -2822,7 +2822,7 @@
   "Steam 360 Video Player | [Steam]": {
     "title": "Steam 360 Video Player",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613220/portrait.png?t=1555972654",
-    "link": null,
+    "link": "https://store.steampowered.com/app/613220/Steam_360_Video_Player/",
     "platform": "Steam"
   },
   "SteamVR | [Steam]": {
@@ -2906,7 +2906,7 @@
   "The Dark Pictures Anthology: House of Ashes - Friend's Pass | [Steam]": {
     "title": "The Dark Pictures Anthology: House of Ashes - Friend's Pass",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775270/library_600x900.jpg?t=1643385626",
-    "link": null,
+    "link": "https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/?snr=1_7_7_151_150_1",
     "platform": "Steam"
   },
   "The Dark Pictures Anthology: Little Hope | [Steam]": {
@@ -2918,7 +2918,7 @@
   "The Dark Pictures Anthology: Little Hope - Friend's Pass | [Steam]": {
     "title": "The Dark Pictures Anthology: Little Hope - Friend's Pass",
     "image": "https://store.akamai.steamstatic.com/public/images/applications/store/defaultappimage.png?v=085a01032e80641021a420f4342cb8fb",
-    "link": null,
+    "link": "https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/?snr=1_7_7_151_150_1",
     "platform": "Steam"
   },
   "The Dark Pictures Anthology: Man of Medan | [Steam]": {
@@ -2930,7 +2930,7 @@
   "The Dark Pictures: Man of Medan - Friend's Pass | [Steam]": {
     "title": "The Dark Pictures: Man of Medan - Friend's Pass",
     "image": "https://store.akamai.steamstatic.com/public/images/applications/store/defaultappimage.png?v=085a01032e80641021a420f4342cb8fb",
-    "link": null,
+    "link": "https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/?snr=1_7_7_151_150_1",
     "platform": "Steam"
   },
   "Detroit: Become Human | [Steam]": {
@@ -2942,7 +2942,7 @@
   "The Elder Scrolls III: Morrowind | [Steam]": {
     "title": "The Elder Scrolls III: Morrowind",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22320/library_600x900.jpg?t=1760029380",
-    "link": null,
+    "link": "https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/",
     "platform": "Steam"
   },
   "Etrian Odyssey HD | [Steam]": {
@@ -2972,7 +2972,7 @@
   "L.A. Noire: DLC Bundle | [Steam]": {
     "title": "L.A. Noire: DLC Bundle",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/110810/portrait.png",
-    "link": null,
+    "link": "https://store.steampowered.com/app/110800/LA_Noire/?snr=1_7_7_151_150_1",
     "platform": "Steam"
   },
   "Marvel’s Spider-Man Remastered | [Steam]": {
@@ -3051,6 +3051,24 @@
     "title": "The Walking Dead: The Telltale Definitive Series",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/library_600x900.jpg?t=1760651835",
     "link": "https://store.steampowered.com/app/1449690/The_Walking_Dead_The_Telltale_Definitive_Series/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "Shadow of the Tomb Raider | [Steam]": {
+    "title": "Shadow of the Tomb Raider",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/750920/library_600x900.jpg?t=1765239925",
+    "link": "https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/",
+    "platform": "Steam"
+  },
+  "SPLITGATE: Arena Reloaded | [Steam]": {
+    "title": "SPLITGATE: Arena Reloaded",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2918300/27413634c21bd01a5c287b5e2317a5c5c7eb3288/library_capsule.jpg?t=1765993865",
+    "link": "https://store.steampowered.com/app/2918300/SPLITGATE_Arena_Reloaded/?snr=1_7_7_151_150_1",
+    "platform": "Steam"
+  },
+  "UNDER NIGHT IN-BIRTH II Sys:Celes | [Steam]": {
+    "title": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2076010/library_600x900.jpg?t=1755568271",
+    "link": "https://store.steampowered.com/app/2076010/UNDER_NIGHT_INBIRTH_II_SysCeles/?snr=1_7_7_151_150_1",
     "platform": "Steam"
   }
 }
