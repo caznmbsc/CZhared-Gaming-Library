@@ -9,10 +9,10 @@
 </head>
 <body page-body>
     <video autoplay muted class="backgroundBlurredVideo" video1>
-        <source src="media/ror2.mp4" type="video/mp4">
+        <source src="media/RiskOfRain2.mp4" type="video/mp4">
     </video>
     <video autoplay muted class="backgroundVideo" video2>
-        <source src="media/ror2.mp4" type="video/mp4">
+        <source src="media/RiskOfRain2.mp4" type="video/mp4">
     </video>
     <div class="backgroundCover"></div>
     
@@ -25,17 +25,68 @@
         <a href="offlineInfo.html"><b>Why/How do I play offline?</b></a>
         <a href="tutorials.html"><b>How do I play the games?</b></a>
         <a href="faq.html"><b>FAQ (Frequently Asked Questions)</b></a>
+        <a href="wishlist.html" style="border: 5px solid; border-radius: 0 0 20px 20px;"><b>WISHLIST NEW GAMES</b></a>
     </div>
 
-    <input type="search" placeholder="Search Game Name..." class="searchBar" game-search>
+    <div class="topWishlists">
+        <h1>Top Wishlisted Games</h1>
+        <div class="wishlistBox topWishlistBox" my-wishlist></div>
+    </div>
     
+    <div class="czharedSearch">
+        <input type="search" placeholder="Search Game Name..." class="searchBar" czhared-game-search>
+    </div>
+    
+    <div class="searchNavigation library">
+        <button class="navButton previousGames" onclick="loadCards(false, true)">Previous Page</button>
+        <button class="navButton nextGames" onclick="loadCards(true, true)">Next Page</button>
+    </div>
+
+    <div class="fullscreenOverlay hidden" wishlist-overlay>
+        <div class="overlayExit">
+            <button class="overlayExitButton" onclick="closeOverlay()">
+                <img src="media/XButton.png" alt="overlayExitButton" class="overlayExitImg">
+            </button>
+        </div>
+        <div class="wishCard" wish-card>
+            <div class="wishImgDiv" wish>
+                <img src="" alt="" class="wishImg" wish-cover>
+                <img src="" alt="" class="wishImg" wish-platform-image>
+            </div>
+            <div class="wishInfoDiv">
+                <div class="wishInfoSegment">
+                    <h1><a href="" class="wishName" target="_blank" wish-name>Game Name</a></h1>
+                </div>
+                <div class="wishInfoSegment">
+                    <h1 class="wishPlatform" wish-platform>Game Platform</h1>
+                </div>
+                <div class="wishInfoSegment">
+                    <h1 class="wishCount" wish-count>Total Wishlists: #</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <template game-info-template>
         <div class="gameCard">
-            <div class="gameImage"><img src="media/loading.gif" alt="loadingImage" game-image></div>
-            <div class="gameHyperlink"><a href="" game-link>Hyperlink Text</a></div>
+            <div class="gameImage"><img src="media/loading.gif" alt="loadingImage" loading="lazy" game-image></div>
+            <div class="gameHyperlink"><a href="" target="_blank" game-link>Hyperlink Text</a></div>
             <div class="gamePlatform" game-platform>Platform</div>
             <div class="newStamp hidden" game-stamp></div>
         </div>
+    </template>
+
+    <template games-navigation>
+        <div class="searchNavigation library">
+            <button class="navButton previousGames" onclick="loadCards(false, true)">Previous Page</button>
+            <button class="navButton nextGames" onclick="loadCards(true, true)">Next Page</button>
+        </div>
+    </template>
+    <template wishlist-game-template>
+        <button class="wishlistCard" onclick="showWishlistInfo(this)">
+            <img src="media/noImage.png" alt="" loading="lazy" class="wishlistCardImg" wishlist-game-image></img>
+            <img src="" alt="" loading="lazy" class="wishlistGamePlatformStamp" wishlist-game-platform>
+        </button>
     </template>
 </body>
 </html>

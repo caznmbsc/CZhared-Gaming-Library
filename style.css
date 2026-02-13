@@ -2,6 +2,8 @@ body {
     background-color: black;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
+    max-width: 100%;
 }
 
 .backgroundBlurredVideo {
@@ -54,19 +56,360 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.bulletin.footer {
+.topWishlists {
+    z-index: 3;
+    position: relative;
+    clear: both;
+    justify-items: center;
+    padding-top: 1px;
+    font-size: clamp(0.375rem, 2.25vw, 25px);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topWishlists h1 {
+    color: gold;
+    background-color: black;
+    border: 5px solid;
+    border-color: gold;
+    border-radius: 5px;
+}
+
+.wishlistBox {
+    z-index: 3;
+    position: relative;
+    float: left;
+    display: grid;
+    grid-auto-flow: column;
+    overflow-x: auto;
+    overflow-y: hidden;
+    /* overflow: hidden; */
+    gap: 15px;
+    padding: 10px;
+    width: 100%;
+    height: calc(20vw + 10px);
+    min-height: calc(125px + 10px);
+    max-height: calc(200px + 10px);
     margin-top: 2.5vh;
     margin-bottom: 25px;
-    border-radius: 0px 0px 20px 20px;
-    background-color: rgba(255, 255, 255, 0.5);
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-color: black;
     font-size: clamp(0.375rem, 2.25vw, 25px);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
+    &:hover {
+        cursor: grab;
+    }
+    &:active {
+        cursor: grabbing;
+    }
+}
+
+.topWishlistBox {
+    float: none;
+}
+
+.wishlistCard {
+    position: relative;
+    overflow: visible;
+    height: 20vw;
+    width: 12.5vw;
+    min-width: 78px;
+    min-height: 125px;
+    max-width: 125px;
+    max-height: 200px;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.wishlistCardImg {
+    object-fit: fill;
+    height: 100%;
+    width: 100%;
+}
+
+.wishlistGamePlatformStamp {
+    z-index: 4;
+    position: absolute;
+    height: 50%;
+    width: auto;
+    bottom: -15%;
+    right: 10%;
+}
+
+.fullscreenOverlay {
+    z-index: 5;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0 , 0.75);
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+
+.overlayExit {
+    position: fixed;
+    background-color: red;
+    width: auto;
+    height: 7.5%;
+    top: 1.5%;
+    right: 1.5%;
+}
+
+.overlayExitButton {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    &:hover {
+        background-color: red;
+    }
+}
+
+.overlayExitImg {
+    object-fit: fill;
+    height: 100%;
+    width: 100%;
+}
+
+.loginPage {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    height: 75%;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-color: white;
+    border: 10px solid;
+}
+
+.loginSegment {
+    flex: 1;
+    display: flex;
+    position: relative;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: clamp(0.75rem, 3vw, 25px);
+}
+
+.loginBox {
+    flex: 2;
+    width: 50%;
+    height: 40%;
+    border-radius: 10px;
+    text-align: center;
+    font-size: clamp(0.75rem, 3vw, 25px);
+    &::placeholder {
+        text-align: center;
+    }
+}
+
+.loginButton {
+    flex: 1;
+    height: 45%;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: clamp(0.75rem, 3vw, 25px);
+    &:hover {
+        background-color: rgb(100, 100, 100);
+        color: black;
+    }
+}
+
+.usernameField {
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.wishCard{
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 75%;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-color: white;
+    border: 10px solid;
+}
+
+.wishImgDiv {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    max-width: 100%;
+    min-width: 0;
+}
+
+.wishImg {
+    flex: 1;
+    object-fit: contain;
+    height: 40%;
+    width: auto;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border-right: 10px solid;
+}
+
+.wishInfoDiv {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.wishInfoSegment {
+    flex: 1;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: clamp(0.5rem, 2vw, 25px);
+}
+
+.wishButtons {
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    border-color: white;
+    border-top: 10px solid;
+}
+
+.wishlist {
+    flex: 1;
+    height: 100%;
+    background-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: clamp(0.5rem, 1.5vw, 20px);
+    &:hover {
+        cursor: pointer;
+        background-color: rgb(100, 255, 100);
+    }
+}
+
+.unwishlist {
+    flex: 1;
+    height: 100%;
+    background-color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: clamp(0.5rem, 1.5vw, 20px);
+    &:hover {
+        cursor: pointer;
+        background-color: rgb(255, 100, 100);
+    }
+}
+
+.invalidWishlistButton {
+    flex: 1;
+    height: 100%;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: clamp(0.5rem, 1.5vw, 20px);
+}
+
+.wishlistSearch {
+    z-index: 3;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    width: 100%;
+    height: 55vh;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-color: black;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+.searchedGames {
+    position: relative;
+    flex: 9;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fill, 125px);
+    grid-auto-rows: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    column-gap: 20px;
+    row-gap: 1.5vh;
+    padding: 10px;
+    width: 100%;
+    border-bottom: 5px solid;
+    border-color: black;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    &:hover {
+        cursor: n-resize;
+    }
+}
+
+.searchNavigation {
+    flex: 1;
+    display: flex;
+    width: 100%;
+    overflow-x: hidden;
+    justify-self: center;
+}
+
+.searchNavigation.library {
+    z-index: 4;
+    position: relative;
+    width: 65vw;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.navButton {
+    flex: 1;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: clamp(1.25rem, 3vw, 30px);
+    &:hover {
+        cursor: pointer;
+        background-color: rgba(150, 150, 150, 0.75);
+    }
 }
 
 .bulletinImg {
     width: 75%;
     height: auto;
+}
+
+.bulletin.footer {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 0 0 20px 20px;
+}
+
+.noSearch {
+    margin-bottom: 25px;
 }
 
 .bulletin.footer a {
@@ -112,19 +455,51 @@ body {
     margin-top: 0;
 }
 
+.storeSearch {
+    z-index: 4;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.czharedSearch {
+    z-index: 4;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
 .searchBar {
     z-index: 4;
     position: relative;
-    float: left;
     border: 3px solid;
     border-radius: 5px;
     display: flex;
     padding: 10px 10vw;
     width: 40%;
-    margin-left: 30%;
     text-align: center;
+    margin-top: 25px;
     margin-bottom: 25px;
+}
 
+.searchButton {
+    height: 5vh;
+    width: 20%;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: clamp(1.25rem, 3vw, 30px);
+    &:hover {
+        cursor: pointer;
+        background-color: rgba(150, 150, 150, 0.75);
+    }
 }
 
 .gameCard {
@@ -194,6 +569,29 @@ body {
     width: 100px;
     height: 100px;
     overflow: visible;
+}
+
+.wishlisted {
+    border: 10px inset;
+    border-color: gold;
+}
+
+.loading {
+    z-index: 5;
+    position: absolute;
+    float: left;
+    height: auto;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.userLoading {
+    z-index: 5;
+    position: absolute;
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+
 }
 
 .hidden {

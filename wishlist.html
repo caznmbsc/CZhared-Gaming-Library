@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>CZhared Gaming Library</title>
+</head>
+<body page-body>
+    <video autoplay muted class="backgroundBlurredVideo" video1>
+        <source src="media/RiskOfRain2.mp4" type="video/mp4">
+    </video>
+    <video autoplay muted class="backgroundVideo" video2>
+        <source src="media/RiskOfRain2.mp4" type="video/mp4">
+    </video>
+    <div class="backgroundCover"></div>
+    
+    <div class="bulletin">
+        <h1 username-bulletin>'s Wishlist</h1>
+    </div>
+
+    <div class="wishlistBox" my-wishlist></div>
+
+    <div class="storeSearch">
+        <input type="search" placeholder="Search Game Name..." class="searchBar" onsearch="storeSearch()" shop-game-search>
+        <button class="searchButton" onclick="storeSearch()">Search</button>
+    </div>
+    
+    <div class="wishlistSearch">
+        <div class="searchedGames" wishlist-shop>
+            <img src="media/loading.gif" alt="storeLoading" class="loading hidden" store-loading>
+        </div>
+        <div class="searchNavigation">
+            <button class="navButton previousGames" onclick="loadCards(false, false)">Previous Page</button>
+            <button class="navButton nextGames" onclick="loadCards(true, false)">Next Page</button>
+        </div>
+    </div>
+
+    <div class="fullscreenOverlay" login-overlay>
+        <div class="loginPage">
+            <div class="loginSegment">
+                <h1><b>Login</b></h1>
+            </div>
+            <div class="loginSegment">
+                <h2>Please create a memorable username or enter the username you previously made.</h2>
+            </div>
+            <div class="loginSegment" style="color: red; text-decoration: underline; border: 5px solid;">
+                <h3>DO NOT use your real name, email, etc.</h3>
+            </div>
+            <div class="loginSegment usernameField">
+                <input type="text" value="" id="username" name="username" placeholder="Enter your unique username." class="loginBox" login-field>
+                <button class="loginButton" onclick="login()">Login</button>
+            </div>
+            <div class="loginSegment">
+                <img src="media/loading.gif" alt="storeLoading" class="userLoading hidden" user-loading>
+                <h4 class="loginMessage" login-message></h4>
+            </div>
+        </div>
+    </div>
+
+    <div class="fullscreenOverlay hidden" wishlist-overlay>
+        <div class="overlayExit">
+            <button class="overlayExitButton" onclick="closeOverlay()">
+                <img src="media/XButton.png" alt="overlayExitButton" class="overlayExitImg">
+            </button>
+        </div>
+        <div class="wishCard" wish-card>
+            <div class="wishImgDiv" wish>
+                <img src="" alt="" class="wishImg" wish-cover>
+                <img src="" alt="" class="wishImg" wish-platform-image>
+            </div>
+            <div class="wishInfoDiv">
+                <div class="wishInfoSegment">
+                    <h1><a href="" class="wishName" target="_blank" wish-name>Game Name</a></h1>
+                </div>
+                <div class="wishInfoSegment">
+                    <h1 class="wishPlatform" wish-platform>Game Platform</h1>
+                </div>
+                <div class="wishInfoSegment">
+                    <h1 class="wishCount" wish-count>Total Wishlists: #</h1>
+                </div>
+                <div class="wishInfoSegment">
+                    <h1 class="wishQuestion"><b><u>Do you want to wishlist this game?</u></b></h1>
+                </div>
+                <div class="wishButtons wishInfoSegment" wish-buttons>
+                    <button class="unwishlist" onclick="wishlistGame()" unwishlist-button><h1>Remove from Wishlist</h1></button>
+                    <button class="wishlist" onclick="wishlistGame()" wishlist-button><h1>Add to Wishlist</h1></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <template wishlist-game-template>
+        <button class="wishlistCard" onclick="showWishlistInfo(this)">
+            <img src="media/noImage.png" alt="" loading="lazy" class="wishlistCardImg" wishlist-game-image></img>
+            <img src="" alt="" loading="lazy" class="wishlistGamePlatformStamp" wishlist-game-platform>
+        </button>
+    </template>
+</body>
+
+</html>
