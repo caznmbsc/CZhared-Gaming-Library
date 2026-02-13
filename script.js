@@ -1,6 +1,7 @@
 databaseURL = "https://erbmfmayovfxbutxsoax.supabase.co/functions/v1/"
 cacheVersion = 1
-const currentPage = window.location.href.split("/").pop() || "index.html";
+var currentPage = window.location.href.split("/").pop() || "index.html";
+if (currentPage == "") { currentPage = "index.html" }
 clientUsername = ""
 games = {}
 searchedGames = {}
