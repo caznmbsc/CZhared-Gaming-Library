@@ -285,6 +285,7 @@ body {
 .wishInfoSegment {
     flex: 1;
     display: flex;
+    min-height: 0;
     justify-items: center;
     align-items: center;
     text-align: center;
@@ -292,6 +293,7 @@ body {
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: clamp(0.5rem, 2vw, 25px);
+    text-overflow: ellipsis;
 }
 
 .wishButtons {

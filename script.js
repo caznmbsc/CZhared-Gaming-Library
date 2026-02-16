@@ -752,7 +752,7 @@ setup.then((setupResult) => {
 const searchInput = document.querySelector("[czhared-game-search]");
 if (searchInput != null) {
     searchInput.addEventListener("input", (e) => {
-        const value = e.target.value.toLowerCase();
+        const value = e.target.value.toLowerCase().trim();
         searchedValue = value
         searchedGameKeys = Object.keys(games).filter(key => {
             return games[key].name.toLowerCase().includes(value);
@@ -781,7 +781,7 @@ async function storeSearch() {
 
     console.log("Searching Shop...")
     storeLoadingImage = document.querySelector("[store-loading]");
-    searchValue = document.querySelector("[shop-game-search]").value;
+    searchValue = document.querySelector("[shop-game-search]").value.trim();
     console.log(`\tSearch for: ${searchValue}`)
     if (searchValue == null || searchValue == "") {
         console.log("\tNo search value detected.")
