@@ -262,6 +262,12 @@ async function loadCards(proceeding=true, bottomNav=false, staleRun=false, games
                         case "PlayStation 4":
                             wishlistGamePlatformStamp.src = "media/PS4Logo.png"
                             break;
+                        case "Oculus VR":
+                            wishlistGamePlatformStamp.src = "media/VRLogo.png"
+                            break;
+                        case "SteamVR":
+                            wishlistGamePlatformStamp.src = "media/VRLogo.png"
+                            break;
                     }
                     wishlistCard.classList.toggle("wishlisted");
                     visibleWishlist[key] = wishlistCard;
@@ -320,6 +326,12 @@ async function loadCards(proceeding=true, bottomNav=false, staleRun=false, games
                             break;
                         case "PlayStation 4":
                             wishlistGamePlatformStamp.src = "media/PS4Logo.png"
+                            break;
+                        case "Oculus VR":
+                            wishlistGamePlatformStamp.src = "media/VRLogo.png"
+                            break;
+                        case "SteamVR":
+                            wishlistGamePlatformStamp.src = "media/VRLogo.png"
                             break;
                     }
                     if (gamesDictionary[key].wishlisted) {
@@ -399,6 +411,12 @@ function showWishlistInfo(gameButton) {
             break;
         case "PlayStation 4":
             overlay.querySelector("[wish-platform-image]").src = "media/PS4Logo.png"
+            break;
+        case "Oculus VR":
+            overlay.querySelector("[wish-platform-image]").src = "media/VRLogo.png"
+            break;
+        case "SteamVR":
+            overlay.querySelector("[wish-platform-image]").src = "media/VRLogo.png"
             break;
     } 
     overlay.querySelector("[wish-name]").textContent = infoDicitonary[key].name
