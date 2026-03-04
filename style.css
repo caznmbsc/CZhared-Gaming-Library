@@ -12,6 +12,7 @@ body {
     filter: blur(10px);
     margin-left: 50vw;
     transform: translate(-50%);
+    pointer-events: none;
 }
 
 .backgroundVideo {
@@ -22,6 +23,7 @@ body {
     transform: translate(-50%);
     margin-top: 10vh;
     z-index: 1;
+    pointer-events: none;
 }
 
 .backgroundCover {
@@ -64,6 +66,7 @@ body {
     padding-top: 1px;
     font-size: clamp(0.375rem, 2.25vw, 25px);
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 .topWishlists h1 {
@@ -72,6 +75,7 @@ body {
     border: 5px solid;
     border-color: gold;
     border-radius: 5px;
+    display: inline-block;
 }
 
 .wishlistBox {
