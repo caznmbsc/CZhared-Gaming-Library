@@ -729,8 +729,6 @@ function playRandomVideo() {
 
     video1.load();
     video2.load();
-    video1.play();
-    video2.play();
 }
 
 playRandomVideo()
